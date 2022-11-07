@@ -42,9 +42,9 @@ The Strength check is based on the following criteria:
 
 ## Demo 💻
 
-![](gif/password generator opt1.gif)
+<img src="./resources/password generator opt1.png" alt="screenshot" width="400">
 
-![](gif/password generator opt1_2.gif)
+<img src="./resources/password generator opt1_2.png" alt="screenshot" width="400">
 
 ## Author 👨‍👩‍👧‍👦
 
