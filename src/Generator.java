@@ -167,7 +167,7 @@ public class Generator {
         System.out.println("Enter 2 - Password Strength Check");
         System.out.println("Enter 3 - Useful Information");
         System.out.println("Enter 4 - Quit");
-        System.out.print("Choice:");
+        System.out.print("Choose:");
     }
 
     private void printQuitMessage() {
