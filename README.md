@@ -43,6 +43,7 @@ The Strength check is based on the following criteria:
 ## Demo 💻
 
 ![](gif/password generator opt1.gif)
+
 ![](gif/password generator opt1_2.gif)
 
 ## Author 👨‍👩‍👧‍👦
